@@ -519,8 +519,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: '🔮𝙇𝙄𝙉𝙆𝙏𝙍𝙀𝙀🔮',
-               url: 'https://linktr.ee/asepbotz'
+               displayText: '🔮𝘿𝙊𝙉𝘼𝙎𝙄 𝙎𝘼𝙒𝙀𝙍𝙄𝘼🔮',
+               url: 'https://saweria.co/asepbotz'
              }
 
            },
